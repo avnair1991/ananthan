@@ -2,7 +2,7 @@
 apipkg==1.4
 
 # pytest dependency
-py==1.4.31
+py==1.10.0
 
 # pytest-xdist dependencies
 execnet==1.4.1
